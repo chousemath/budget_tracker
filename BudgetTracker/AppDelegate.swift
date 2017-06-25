@@ -11,6 +11,7 @@ import UIKit
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
+    // the window has an optional value, meaning it could be nil at some point
     var window: UIWindow?
 
 
